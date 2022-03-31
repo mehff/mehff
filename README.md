@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matheus Henrique Facini Ferreira
-- 👀 I’m interested in APIs and IAs!
+- 👀 I’m interested in APIs and AIs!
 - 🌱 I’m currently learning JavaScript 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "15" height = "15"/>
           , Nodejs 
