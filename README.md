@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Matheus Henrique Facini Ferreira
 - 👀 I’m interested in APIs and AIs!
-- 🌱 I’m currently learning Data Analysis, Python and R.           
+- 🌱 I’m currently learning Data Analysis, Python and R.    
+- 🦀 I currently work with Network-related QA and Python development.     
      
           
   <br>
