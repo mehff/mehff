@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Matheus Henrique Facini Ferreira
-- 👀 I’m mainly interested in AIs!
-- 🌱 I’m currently learning Data Analysis, Python and R. Projects underway!
+- 👋 Hi, I’m Matheus :)
+- 🌱 I’m currently learning Rust!
 - 🦀 I currently work with Network-related QA and Python development.      
 
 - <a href = "https://www.codewars.com/users/mehff/completed_solutions"><img src = "https://www.codewars.com/users/mehff/badges/micro"><a/> I also enjoy Codewars! 
