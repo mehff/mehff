@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus :)
-- 🌱 I’m currently learning Rust!
-- 🦀 I currently work with Network-related QA and Python development.
+- 🦀 I’m currently learning Rust!
+- 🐍 I'll do anything Python related :D
 
 <!---
 mehff/mehff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
